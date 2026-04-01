@@ -52,6 +52,8 @@ This project has to potential to improve efficiency of herbicide use in soybean 
 1. **Clone the repo** and ensure `soybean_weed_model.keras` is in the directory.
 2. **Ensure that you have Python 3.10 or 3.12 installed.**
 3. **Run the following commands to launch the streamlit application:**
+
 chmod +x setup.sh
+
 ./setup.sh
 
