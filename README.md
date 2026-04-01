@@ -44,7 +44,7 @@ Instead of a standard CNN, the system leverages a MobileNetV3-Large backbone, op
 3. This model was only designed to detect weeds amongst well established soybean crops. In the original dataset, any images containing mostly soil were labeled soil, even if there were some small weeds present.
 4. The model may not recognize damaged or diseased soybean plants, as these were not present in the training dataset.
 
-##Project Impact
+## Project Impact
 
 This project has to potential to improve efficiency of herbicide use in soybean crops. If modified for commercial use, this model could lower operational costs and minimize environmental footprint from excessive chemical use.
 
